@@ -10,13 +10,6 @@
   Streamline patient management, staff coordination, and daily hospital operations.
 </p>
 
-<p align="center">
-  <a href="https://github.com/William-Moriarty7/ATOM-Hospital/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
-  </a>
-  <!-- Add your workflow/CI badge here if available -->
-</p>
-
 ---
 
 ## 🚀 Overview
