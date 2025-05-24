@@ -26,8 +26,6 @@
 - [Project Structure](#project-structure)
 - [Authentication & Security](#authentication--security)
 - [Database](#database)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -101,7 +99,7 @@ SQLite databases are used for persistent storage:
 - `archive.db`: Archived patients.
 - `with.db`: Doctor-assistant relationships.
 
---
+---
 
 ## 📄 License
 
